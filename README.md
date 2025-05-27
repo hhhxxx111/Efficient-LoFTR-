@@ -3,7 +3,11 @@
 ### [Project Page](https://zju3dv.github.io/efficientloftr) | [Paper](https://zju3dv.github.io/efficientloftr/files/EfficientLoFTR.pdf) 
 <br/>
 
-本次验证实验的代码My_test.py,实验的输出结果在output文件夹中
+
+**本次验证实验的代码My_test.py,实验的输出结果在output文件夹中**
+实现了对Efficient LoFTR的验证，以及为后续的学习积累经验
+
+
 
 ## 🌟News🌟
 To enhance multi-modality matching with EfficientLoFTR and improve its applicability to UAV localization, autonomous driving, and beyond, check out our latest work, [MatchAnything](https://github.com/zju3dv/MatchAnything)! Try our demo and see it in action!
