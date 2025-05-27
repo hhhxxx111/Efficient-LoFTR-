@@ -3,11 +3,7 @@
 ### [Project Page](https://zju3dv.github.io/efficientloftr) | [Paper](https://zju3dv.github.io/efficientloftr/files/EfficientLoFTR.pdf) 
 <br/>
 
-> Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed  
-> [Yifan Wang](https://github.com/wyf2020)<sup>\*</sup>, [Xingyi He](https://github.com/hxy-123)<sup>\*</sup>, [Sida Peng](https://pengsida.net), [Dongli Tan](https://github.com/Cuistiano), [Xiaowei Zhou](http://xzhou.me)  
-> CVPR 2024 Highlight
-
-https://github.com/zju3dv/EfficientLoFTR/assets/69951260/40890d21-180e-4e70-aeba-219178b0d824
+本次验证实验的代码My_test.py,实验的输出结果在output文件夹中
 
 ## 🌟News🌟
 To enhance multi-modality matching with EfficientLoFTR and improve its applicability to UAV localization, autonomous driving, and beyond, check out our latest work, [MatchAnything](https://github.com/zju3dv/MatchAnything)! Try our demo and see it in action!
